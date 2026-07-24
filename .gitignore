@@ -427,3 +427,30 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+
+# PowerPoint Auto Recovery
+*.tmp
+~$*.pptx
+
+# Office
+~$*

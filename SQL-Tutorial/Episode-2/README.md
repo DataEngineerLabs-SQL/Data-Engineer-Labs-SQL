@@ -86,7 +86,7 @@ Try it before moving to the next episode.
 
 🎥 **Episode 02:** CREATE TABLE, INSERT & SELECT Explained
 
-(Add YouTube link here after publishing)
+*(https://youtu.be/mAbSxutEN3E)*
 
 ---
 

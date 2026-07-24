@@ -108,7 +108,7 @@ SELECT DB_NAME();
 
 🎥 **SQL Tutorial for Data Engineers | Episode 01 | Install SQL Server & Write Your First Query**
 
-*(Add your YouTube link here.)*
+*(https://youtu.be/VRnm2_JIWL0)*
 
 ---
 

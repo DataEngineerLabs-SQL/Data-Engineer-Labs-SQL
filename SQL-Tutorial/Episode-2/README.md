@@ -24,10 +24,8 @@ By the end of this episode, you'll be able to:
 
 | File | Description |
 |------|-------------|
-| `Employee_Table.sql` | Creates the Employee table |
-| `Insert_Data.sql` | Inserts sample employee records |
-| `Practice.md` | Hands-on exercises |
-| `Solution.sql` | Solutions to the practice questions |
+| `First_table.sql` | Creates the Employee table |
+| `Insert_Data.sql` | Inserts sample employee records and Retrieve records using SELECT |
 | `Episode_02_Slides.pdf` | Presentation slides used in the video |
 
 ---
@@ -46,6 +44,8 @@ INT
 VARCHAR
 
 DECIMAL
+
+DATE
 ```
 
 ---
@@ -94,6 +94,7 @@ Try it before moving to the next episode.
 
 In **Episode 03**, you'll learn the **SELECT statement** in depth, including:
 
+- Understanding SELECT Statement
 - Selecting specific columns
 - Selecting multiple columns
 - Column aliases (`AS`)

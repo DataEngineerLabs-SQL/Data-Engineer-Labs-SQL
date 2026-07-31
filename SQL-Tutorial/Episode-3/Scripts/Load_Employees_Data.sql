@@ -1,8 +1,17 @@
+/*Try changing: if you get zero rows affecetd 
+
+ROWTERMINATOR = '0x0d0a'
+or
+ROWTERMINATOR = '0x0a'
+or
+ROWTERMINATOR = '\n'
+*/
+
 USE DataEngineerLabs;
 GO
 
 BULK INSERT HR.Employees
-FROM 'C:\Users\yoges\OneDrive\Desktop\DataEngineerLabs\Project\Data-Engineer-Labs-SQL\SQL-Tutorial\Episode-3\Data\Employees.csv'
+FROM 'F:\DataEngineerLabs\Data\Employees.csv'
 WITH
 (
     FIRSTROW = 2,

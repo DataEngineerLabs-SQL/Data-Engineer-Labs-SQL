@@ -1,21 +1,21 @@
-ProjectID,ProjectName,DepartmentID,Budget
-502,Cloud Migration Program,6,880879
-501,Customer Portal Revamp,7,145767
-503,Enterprise API Platform,8,839485
-504,Mobile Application Modernization,7,504832
-505,Enterprise Data Lake,3,619389
-506,Data Warehouse Modernization,1,232378
-507,Real-Time Analytics Platform,6,205239
-508,Customer 360 Platform,8,204555
-509,AI Assistant Integration,8,116093
-510,Fraud Detection Platform,3,529893
-511,Recommendation Engine,3,178463
-512,Predictive Sales Analytics,8,377896
-513,Infrastructure Automation,6,753534
-514,Disaster Recovery Enhancement,7,781403
-515,Identity & Access Management,2,444525
-516,Network Security Upgrade,7,432043
-517,HR Management System,8,667296
-518,Payroll Automation,1,747453
-519,CRM Implementation,2,346174
-520,ERP Modernization,5,338536
+ProjectID,ProjectName,DepartmentID,Budget,StartDate,EndDate
+501,Customer Portal Revamp,7,145767.00,2024-01-15,2024-12-31
+502,Cloud Migration Program,6,880879.00,2024-02-01,2025-03-31
+503,Enterprise API Platform,8,839485.00,2024-03-10,2025-06-30
+504,Mobile Application Modernization,7,504832.00,2024-04-01,2025-01-31
+505,Enterprise Data Lake,3,619389.00,2024-05-15,2025-08-31
+506,AI Recruitment Assistant,1,275000.00,2024-06-01,2025-02-28
+507,Cybersecurity Enhancement,6,910500.00,2024-07-01,2025-07-31
+508,Payroll System Upgrade,2,198500.00,2024-01-20,2024-09-30
+509,CRM Implementation,5,420000.00,2024-03-01,2025-01-15
+510,Global HR Transformation,1,350000.00,2024-02-15,2025-04-30
+511,Financial Reporting Automation,2,287000.00,2024-05-01,2025-02-15
+512,Sales Analytics Dashboard,5,195500.00,2024-04-10,2024-12-20
+513,Customer Loyalty Platform,5,510000.00,2024-06-15,2025-09-30
+514,Inventory Management System,4,395000.00,2024-07-20,2025-05-31
+515,Supply Chain Optimization,4,615000.00,2024-08-01,2025-10-31
+516,Enterprise Data Warehouse,3,985000.00,2024-09-01,2026-03-31
+517,Digital Marketing Platform,5,265000.00,2024-10-15,2025-08-15
+518,IT Service Management Portal,6,330000.00,2024-11-01,2025-09-30
+519,Business Intelligence Modernization,3,725000.00,2024-12-01,2025-12-31
+520,Unified Employee Experience Platform,1,460000.00,2025-01-10,2025-12-15

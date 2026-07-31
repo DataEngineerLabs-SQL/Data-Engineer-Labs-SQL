@@ -1,0 +1,101 @@
+EmployeeID,FirstName,LastName,Gender,Email,Phone,DepartmentID,JobTitle,Salary,City,Country,HireDate,ManagerID,EmploymentStatus
+1001,Olivia,Smith,Male,olivia.smith1001@dataengineerlabs.com,+1-555-1001,5,Sales Executive,72000,Bangalore,India,2021-07-03,,Resigned
+1002,Arjun,Smith,Male,arjun.smith1002@dataengineerlabs.com,+1-555-1002,1,Software Engineer,100000,London,UK,2021-06-14,1001,Resigned
+1003,Haruto,Tanaka,Male,haruto.tanaka1003@dataengineerlabs.com,+1-555-1003,4,Financial Analyst,158000,Tokyo,Japan,2022-02-13,1001,On Leave
+1004,Akira,Brown,Male,akira.brown1004@dataengineerlabs.com,+1-555-1004,4,Financial Analyst,74000,Sydney,Australia,2020-02-23,1001,On Leave
+1005,Mia,Wilson,Male,mia.wilson1005@dataengineerlabs.com,+1-555-1005,5,Sales Executive,70000,New York,USA,2024-02-25,1001,Resigned
+1006,Lucas,Wilson,Male,lucas.wilson1006@dataengineerlabs.com,+1-555-1006,6,Marketing Executive,124000,Bangalore,India,2019-10-12,1001,Active
+1007,Priya,Johnson,Female,priya.johnson1007@dataengineerlabs.com,+1-555-1007,7,Customer Success Manager,144000,Singapore,Singapore,2024-02-01,1001,On Leave
+1008,Rahul,Sharma,Male,rahul.sharma1008@dataengineerlabs.com,+1-555-1008,2,Data Engineer,168000,Toronto,Canada,2024-12-27,1001,On Leave
+1009,Akira,Martin,Male,akira.martin1009@dataengineerlabs.com,+1-555-1009,4,Financial Analyst,130000,Sydney,Australia,2019-08-18,1001,On Leave
+1010,Akira,Johnson,Female,akira.johnson1010@dataengineerlabs.com,+1-555-1010,4,Financial Analyst,167000,Sydney,Australia,2021-05-20,1001,Active
+1011,Akira,Brown,Female,akira.brown1011@dataengineerlabs.com,+1-555-1011,4,Financial Analyst,106000,Singapore,Singapore,2023-10-21,1001,Active
+1012,Emily,Silva,Male,emily.silva1012@dataengineerlabs.com,+1-555-1012,2,Data Engineer,158000,New York,USA,2020-03-25,1001,Resigned
+1013,Liam,Tanaka,Female,liam.tanaka1013@dataengineerlabs.com,+1-555-1013,7,Customer Success Manager,79000,Tokyo,Japan,2024-12-07,1001,Resigned
+1014,Haruto,Sharma,Female,haruto.sharma1014@dataengineerlabs.com,+1-555-1014,6,Marketing Executive,166000,London,UK,2022-04-17,1001,Active
+1015,Akira,Martin,Male,akira.martin1015@dataengineerlabs.com,+1-555-1015,3,HR Specialist,145000,London,UK,2022-05-07,1001,Active
+1016,Haruto,Martin,Male,haruto.martin1016@dataengineerlabs.com,+1-555-1016,1,Software Engineer,142000,Sydney,Australia,2024-06-24,1001,On Leave
+1017,Priya,Smith,Female,priya.smith1017@dataengineerlabs.com,+1-555-1017,4,Financial Analyst,82000,London,UK,2019-12-17,1001,Active
+1018,David,Martin,Female,david.martin1018@dataengineerlabs.com,+1-555-1018,3,HR Specialist,101000,Singapore,Singapore,2024-12-01,1001,Resigned
+1019,Lucas,Tanaka,Female,lucas.tanaka1019@dataengineerlabs.com,+1-555-1019,6,Marketing Executive,113000,Tokyo,Japan,2024-10-20,1001,Active
+1020,Liam,Verma,Male,liam.verma1020@dataengineerlabs.com,+1-555-1020,1,Software Engineer,65000,Bangalore,India,2021-06-21,1001,Active
+1021,Liam,Smith,Male,liam.smith1021@dataengineerlabs.com,+1-555-1021,6,Marketing Executive,174000,London,UK,2024-10-06,1001,Active
+1022,Haruto,Brown,Female,haruto.brown1022@dataengineerlabs.com,+1-555-1022,8,Cloud Engineer,74000,Bangalore,India,2024-04-21,1001,Active
+1023,Arjun,Verma,Male,arjun.verma1023@dataengineerlabs.com,+1-555-1023,7,Customer Success Manager,65000,Berlin,Germany,2024-03-27,1001,On Leave
+1024,Sophia,Johnson,Female,sophia.johnson1024@dataengineerlabs.com,+1-555-1024,4,Financial Analyst,158000,Bangalore,India,2021-02-18,1001,Active
+1025,Akira,Silva,Male,akira.silva1025@dataengineerlabs.com,+1-555-1025,4,Financial Analyst,53000,London,UK,2023-12-21,1001,Active
+1026,Priya,Brown,Male,priya.brown1026@dataengineerlabs.com,+1-555-1026,7,Customer Success Manager,65000,Tokyo,Japan,2024-05-25,1001,Active
+1027,Ethan,Smith,Female,ethan.smith1027@dataengineerlabs.com,+1-555-1027,7,Customer Success Manager,174000,Singapore,Singapore,2024-02-07,1001,Active
+1028,Rahul,Sharma,Female,rahul.sharma1028@dataengineerlabs.com,+1-555-1028,4,Financial Analyst,62000,New York,USA,2019-09-07,1001,Resigned
+1029,David,Martin,Male,david.martin1029@dataengineerlabs.com,+1-555-1029,3,HR Specialist,67000,New York,USA,2024-09-11,1001,Resigned
+1030,Liam,Taylor,Male,liam.taylor1030@dataengineerlabs.com,+1-555-1030,7,Customer Success Manager,157000,London,UK,2021-10-05,1001,Resigned
+1031,Isabella,Wilson,Female,isabella.wilson1031@dataengineerlabs.com,+1-555-1031,6,Marketing Executive,117000,Singapore,Singapore,2021-04-16,1001,On Leave
+1032,Noah,Sharma,Male,noah.sharma1032@dataengineerlabs.com,+1-555-1032,8,Cloud Engineer,75000,Sydney,Australia,2019-10-25,1001,Active
+1033,Haruto,Taylor,Male,haruto.taylor1033@dataengineerlabs.com,+1-555-1033,5,Sales Executive,144000,Toronto,Canada,2022-11-30,1001,On Leave
+1034,Ava,Silva,Male,ava.silva1034@dataengineerlabs.com,+1-555-1034,5,Sales Executive,117000,New York,USA,2022-05-11,1001,Active
+1035,Olivia,Martin,Male,olivia.martin1035@dataengineerlabs.com,+1-555-1035,3,HR Specialist,102000,Singapore,Singapore,2022-02-28,1001,Resigned
+1036,Akira,Martin,Male,akira.martin1036@dataengineerlabs.com,+1-555-1036,8,Cloud Engineer,120000,Singapore,Singapore,2019-07-28,1001,Active
+1037,John,Verma,Female,john.verma1037@dataengineerlabs.com,+1-555-1037,3,HR Specialist,52000,Singapore,Singapore,2020-10-23,1001,Active
+1038,Liam,Brown,Female,liam.brown1038@dataengineerlabs.com,+1-555-1038,1,Software Engineer,60000,Sydney,Australia,2020-08-29,1001,On Leave
+1039,Mia,Smith,Male,mia.smith1039@dataengineerlabs.com,+1-555-1039,6,Marketing Executive,154000,Bangalore,India,2021-10-19,1001,Resigned
+1040,Noah,Taylor,Male,noah.taylor1040@dataengineerlabs.com,+1-555-1040,3,HR Specialist,135000,Toronto,Canada,2023-08-16,1001,On Leave
+1041,Priya,Sharma,Male,priya.sharma1041@dataengineerlabs.com,+1-555-1041,3,HR Specialist,106000,London,UK,2023-04-16,1001,Active
+1042,Sara,Verma,Male,sara.verma1042@dataengineerlabs.com,+1-555-1042,5,Sales Executive,152000,Bangalore,India,2021-07-02,1001,On Leave
+1043,Akira,Johnson,Female,akira.johnson1043@dataengineerlabs.com,+1-555-1043,5,Sales Executive,57000,Sydney,Australia,2024-09-17,1001,Active
+1044,Akira,Brown,Female,akira.brown1044@dataengineerlabs.com,+1-555-1044,5,Sales Executive,130000,New York,USA,2020-03-20,1001,On Leave
+1045,Daniel,Martin,Female,daniel.martin1045@dataengineerlabs.com,+1-555-1045,2,Data Engineer,161000,Berlin,Germany,2021-02-17,1001,Active
+1046,Emily,Martin,Male,emily.martin1046@dataengineerlabs.com,+1-555-1046,4,Financial Analyst,130000,Sydney,Australia,2023-11-02,1001,Resigned
+1047,Olivia,Sharma,Female,olivia.sharma1047@dataengineerlabs.com,+1-555-1047,5,Sales Executive,82000,Berlin,Germany,2022-08-29,1001,Active
+1048,Arjun,Tanaka,Male,arjun.tanaka1048@dataengineerlabs.com,+1-555-1048,3,HR Specialist,123000,Singapore,Singapore,2023-07-22,1001,Active
+1049,Arjun,Wilson,Female,arjun.wilson1049@dataengineerlabs.com,+1-555-1049,6,Marketing Executive,180000,Tokyo,Japan,2023-12-15,1001,On Leave
+1050,Ava,Johnson,Male,ava.johnson1050@dataengineerlabs.com,+1-555-1050,5,Sales Executive,107000,Sydney,Australia,2020-01-18,1001,Active
+1051,Noah,Smith,Male,noah.smith1051@dataengineerlabs.com,+1-555-1051,1,Software Engineer,156000,Bangalore,India,2024-04-30,1001,Resigned
+1052,Isabella,Taylor,Male,isabella.taylor1052@dataengineerlabs.com,+1-555-1052,7,Customer Success Manager,51000,Tokyo,Japan,2023-06-25,1001,Active
+1053,Arjun,Taylor,Male,arjun.taylor1053@dataengineerlabs.com,+1-555-1053,3,HR Specialist,166000,Tokyo,Japan,2019-07-25,1001,Active
+1054,Sara,Martin,Female,sara.martin1054@dataengineerlabs.com,+1-555-1054,6,Marketing Executive,90000,Tokyo,Japan,2024-08-29,1001,Resigned
+1055,David,Silva,Female,david.silva1055@dataengineerlabs.com,+1-555-1055,5,Sales Executive,120000,Bangalore,India,2022-02-09,1001,On Leave
+1056,Liam,Sharma,Female,liam.sharma1056@dataengineerlabs.com,+1-555-1056,4,Financial Analyst,85000,Singapore,Singapore,2022-10-07,1001,Active
+1057,Priya,Tanaka,Female,priya.tanaka1057@dataengineerlabs.com,+1-555-1057,3,HR Specialist,134000,Bangalore,India,2019-09-21,1001,Resigned
+1058,Sara,Tanaka,Female,sara.tanaka1058@dataengineerlabs.com,+1-555-1058,1,Software Engineer,147000,Bangalore,India,2023-09-17,1001,On Leave
+1059,John,Verma,Male,john.verma1059@dataengineerlabs.com,+1-555-1059,5,Sales Executive,106000,Berlin,Germany,2023-09-13,1001,On Leave
+1060,Arjun,Silva,Female,arjun.silva1060@dataengineerlabs.com,+1-555-1060,1,Software Engineer,169000,Berlin,Germany,2022-10-08,1001,Active
+1061,Daniel,Martin,Male,daniel.martin1061@dataengineerlabs.com,+1-555-1061,1,Software Engineer,84000,Berlin,Germany,2019-04-22,1001,On Leave
+1062,Ava,Smith,Male,ava.smith1062@dataengineerlabs.com,+1-555-1062,5,Sales Executive,133000,Berlin,Germany,2022-09-02,1001,On Leave
+1063,Ethan,Sharma,Female,ethan.sharma1063@dataengineerlabs.com,+1-555-1063,7,Customer Success Manager,63000,Singapore,Singapore,2019-12-02,1001,On Leave
+1064,Priya,Johnson,Male,priya.johnson1064@dataengineerlabs.com,+1-555-1064,1,Software Engineer,89000,New York,USA,2021-10-09,1001,Active
+1065,Noah,Silva,Female,noah.silva1065@dataengineerlabs.com,+1-555-1065,2,Data Engineer,92000,Bangalore,India,2024-03-19,1001,Resigned
+1066,Daniel,Johnson,Male,daniel.johnson1066@dataengineerlabs.com,+1-555-1066,3,HR Specialist,146000,Singapore,Singapore,2020-03-18,1001,On Leave
+1067,Rahul,Johnson,Male,rahul.johnson1067@dataengineerlabs.com,+1-555-1067,4,Financial Analyst,138000,London,UK,2022-05-20,1001,Resigned
+1068,Arjun,Verma,Female,arjun.verma1068@dataengineerlabs.com,+1-555-1068,2,Data Engineer,77000,Sydney,Australia,2019-02-21,1001,On Leave
+1069,Mia,Silva,Female,mia.silva1069@dataengineerlabs.com,+1-555-1069,3,HR Specialist,169000,Berlin,Germany,2020-12-22,1001,On Leave
+1070,Isabella,Sharma,Female,isabella.sharma1070@dataengineerlabs.com,+1-555-1070,6,Marketing Executive,112000,Bangalore,India,2019-12-21,1001,On Leave
+1071,Isabella,Wilson,Female,isabella.wilson1071@dataengineerlabs.com,+1-555-1071,7,Customer Success Manager,96000,Sydney,Australia,2019-04-28,1001,On Leave
+1072,Rahul,Verma,Female,rahul.verma1072@dataengineerlabs.com,+1-555-1072,5,Sales Executive,98000,Sydney,Australia,2022-02-19,1001,Active
+1073,Priya,Tanaka,Female,priya.tanaka1073@dataengineerlabs.com,+1-555-1073,8,Cloud Engineer,54000,Bangalore,India,2024-05-04,1001,Active
+1074,Lucas,Taylor,Female,lucas.taylor1074@dataengineerlabs.com,+1-555-1074,7,Customer Success Manager,138000,Bangalore,India,2022-06-08,1001,On Leave
+1075,Haruto,Verma,Female,haruto.verma1075@dataengineerlabs.com,+1-555-1075,6,Marketing Executive,109000,Tokyo,Japan,2022-01-14,1001,Active
+1076,Rahul,Verma,Male,rahul.verma1076@dataengineerlabs.com,+1-555-1076,2,Data Engineer,120000,Toronto,Canada,2021-02-23,1001,Resigned
+1077,Isabella,Martin,Female,isabella.martin1077@dataengineerlabs.com,+1-555-1077,5,Sales Executive,142000,London,UK,2021-03-06,1001,Active
+1078,Lucas,Smith,Male,lucas.smith1078@dataengineerlabs.com,+1-555-1078,3,HR Specialist,82000,Singapore,Singapore,2019-07-06,1001,Resigned
+1079,David,Johnson,Female,david.johnson1079@dataengineerlabs.com,+1-555-1079,1,Software Engineer,137000,Singapore,Singapore,2024-04-06,1001,Active
+1080,Emma,Sharma,Female,emma.sharma1080@dataengineerlabs.com,+1-555-1080,8,Cloud Engineer,68000,London,UK,2019-09-25,1001,Resigned
+1081,Emma,Brown,Male,emma.brown1081@dataengineerlabs.com,+1-555-1081,3,HR Specialist,156000,Singapore,Singapore,2019-12-15,1001,Resigned
+1082,Daniel,Wilson,Female,daniel.wilson1082@dataengineerlabs.com,+1-555-1082,4,Financial Analyst,159000,Berlin,Germany,2024-01-20,1001,On Leave
+1083,Isabella,Wilson,Male,isabella.wilson1083@dataengineerlabs.com,+1-555-1083,1,Software Engineer,70000,London,UK,2021-05-01,1001,Active
+1084,Priya,Brown,Female,priya.brown1084@dataengineerlabs.com,+1-555-1084,2,Data Engineer,170000,Toronto,Canada,2019-01-11,1001,On Leave
+1085,Emma,Taylor,Male,emma.taylor1085@dataengineerlabs.com,+1-555-1085,5,Sales Executive,117000,Singapore,Singapore,2024-02-03,1001,Resigned
+1086,Isabella,Taylor,Male,isabella.taylor1086@dataengineerlabs.com,+1-555-1086,7,Customer Success Manager,86000,London,UK,2021-07-09,1001,Active
+1087,Emma,Brown,Male,emma.brown1087@dataengineerlabs.com,+1-555-1087,5,Sales Executive,127000,Singapore,Singapore,2023-12-04,1001,Resigned
+1088,Ethan,Sharma,Male,ethan.sharma1088@dataengineerlabs.com,+1-555-1088,8,Cloud Engineer,132000,Tokyo,Japan,2019-11-26,1001,Resigned
+1089,Akira,Smith,Female,akira.smith1089@dataengineerlabs.com,+1-555-1089,2,Data Engineer,94000,Bangalore,India,2019-03-26,1001,On Leave
+1090,Emily,Silva,Female,emily.silva1090@dataengineerlabs.com,+1-555-1090,5,Sales Executive,170000,Toronto,Canada,2023-11-21,1001,On Leave
+1091,Arjun,Verma,Female,arjun.verma1091@dataengineerlabs.com,+1-555-1091,6,Marketing Executive,176000,London,UK,2020-10-20,1001,On Leave
+1092,Ethan,Martin,Female,ethan.martin1092@dataengineerlabs.com,+1-555-1092,1,Software Engineer,132000,Tokyo,Japan,2019-12-27,1001,Active
+1093,Ethan,Martin,Male,ethan.martin1093@dataengineerlabs.com,+1-555-1093,1,Software Engineer,142000,Tokyo,Japan,2023-08-20,1001,Resigned
+1094,David,Silva,Male,david.silva1094@dataengineerlabs.com,+1-555-1094,1,Software Engineer,162000,Bangalore,India,2021-12-29,1001,Resigned
+1095,David,Johnson,Female,david.johnson1095@dataengineerlabs.com,+1-555-1095,1,Software Engineer,154000,Bangalore,India,2020-10-10,1001,Active
+1096,Priya,Johnson,Female,priya.johnson1096@dataengineerlabs.com,+1-555-1096,8,Cloud Engineer,180000,London,UK,2020-09-22,1001,Resigned
+1097,Akira,Tanaka,Female,akira.tanaka1097@dataengineerlabs.com,+1-555-1097,8,Cloud Engineer,148000,Tokyo,Japan,2021-09-25,1001,Active
+1098,Daniel,Martin,Female,daniel.martin1098@dataengineerlabs.com,+1-555-1098,3,HR Specialist,179000,London,UK,2022-02-05,1001,On Leave
+1099,John,Sharma,Female,john.sharma1099@dataengineerlabs.com,+1-555-1099,5,Sales Executive,138000,Tokyo,Japan,2020-08-31,1001,On Leave
+1100,Haruto,Martin,Male,haruto.martin1100@dataengineerlabs.com,+1-555-1100,7,Customer Success Manager,148000,Tokyo,Japan,2022-08-11,1001,Active

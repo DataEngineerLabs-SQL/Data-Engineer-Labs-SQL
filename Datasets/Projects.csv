@@ -1,0 +1,21 @@
+ProjectID,ProjectName,DepartmentID,Budget
+502,Cloud Migration Program,6,880879
+501,Customer Portal Revamp,7,145767
+503,Enterprise API Platform,8,839485
+504,Mobile Application Modernization,7,504832
+505,Enterprise Data Lake,3,619389
+506,Data Warehouse Modernization,1,232378
+507,Real-Time Analytics Platform,6,205239
+508,Customer 360 Platform,8,204555
+509,AI Assistant Integration,8,116093
+510,Fraud Detection Platform,3,529893
+511,Recommendation Engine,3,178463
+512,Predictive Sales Analytics,8,377896
+513,Infrastructure Automation,6,753534
+514,Disaster Recovery Enhancement,7,781403
+515,Identity & Access Management,2,444525
+516,Network Security Upgrade,7,432043
+517,HR Management System,8,667296
+518,Payroll Automation,1,747453
+519,CRM Implementation,2,346174
+520,ERP Modernization,5,338536

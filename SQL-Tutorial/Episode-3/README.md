@@ -237,7 +237,7 @@ FROM HR.Employees;
 🎥 Episode 03:
 Database Concepts, Import Data from CSV & Mastering the SELECT Statement
 
-(Replace this section with your YouTube link after publishing.)
+([Replace this section with your YouTube link after publishing.](https://youtu.be/lta-dmHw-k0))
 
 ---
 
